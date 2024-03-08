@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mail_template_task/static/css/main.7db07c0e.css",
+    "main.js": "/mail_template_task/static/js/main.89bf46da.js",
+    "static/media/layer_1_3.png": "/mail_template_task/static/media/layer_1_3.45f9233e508b8fa838f6.png",
+    "index.html": "/mail_template_task/index.html",
+    "main.7db07c0e.css.map": "/mail_template_task/static/css/main.7db07c0e.css.map",
+    "main.89bf46da.js.map": "/mail_template_task/static/js/main.89bf46da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db07c0e.css",
+    "static/js/main.89bf46da.js"
+  ]
+}
