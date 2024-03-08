@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_container {
+    background-image: url(../images/layer_1_3.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    max-width: 600px;
+    max-height: 284px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 52px;
+}
+
+.header_title {
+    padding: 34px;
+    font-family: Arial;
+    font-size: 44px;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #ffffff;
+}
